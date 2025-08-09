@@ -1,0 +1,9 @@
+[project]
+name = "mcp-maku-tools"
+version = "0.1.0"
+description = "MCP server with daily tools used by maku"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.11.2",
+]
